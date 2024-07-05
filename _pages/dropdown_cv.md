@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CV
 permalink: assets/pdf/CV-Tianyi.pdf
+title: CV
 nav: true
-nav_order: 1
-# dropdown: false
+nav_order: 2
+dropdown: false
 ---
