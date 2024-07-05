@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Publications
 nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: publications
+  - title: Publications (by Year)
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: Publications (by Topic)
     permalink: /projects/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Google Scholar
+    permalink: https://scholar.google.com/citations?user=juW6t-AAAAAJ&hl=en
 ---
