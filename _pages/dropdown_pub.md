@@ -5,10 +5,10 @@ nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: Publications (by Year)
+  - title: publications (by year)
     permalink: /publications/
   - title: divider
-  - title: Publications (by Topic)
+  - title: publications (by topic)
     permalink: /publications_topic/
   - title: divider
   - title: Google Scholar
