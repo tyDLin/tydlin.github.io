@@ -2,27 +2,8 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description:
 nav: true
 nav_order: 4
 ---
 
 <h3>Columbia University</h3>
-
-| Semster      |||| Course |
-| ----------- |||| ----------- |
-| Fall 2024      |||| [IEOR E4007](hhttps://doc.sis.columbia.edu/subj/IEOR/E4007-20243-001/){:target="\_blank"} - Optimization Models & Methods for Financial Engineering Models       |
-
-<br/><br/>
-
-<h3>UC Berkeley</h3>
-
-I was a graduate student instructor for the following courses:
-
-| Semster      |||| Course |
-| ----------- |||| ----------- |
-| Fall 2022      |||| [STAT 2](https://classes.berkeley.edu/content/2022-fall-stat-2-001-lec-001){:target="\_blank"} - Introduction to Statistics       |
-| Spring 2022    |||| [COMPSCI 194-198](https://classes.berkeley.edu/content/2022-Spring-COMPSCI-194-198-LEC-198){:target="\_blank"} - Networks: Models, Processes & Algorithms        |
-| Fall 2019      |||| [INDENG 240](https://classes.berkeley.edu/content/2019-fall-indeng-240-001-lec-001){:target="\_blank"} - Optimization Analysis (Graduate)       |
-| Fall 2018      |||| [INDENG 240](https://classes.berkeley.edu/content/2018-fall-indeng-240-001-lec-001){:target="\_blank"} - Optimization Analysis (Graduate)       |
-| Fall 2017      |||| [INDENG 262A](https://classes.berkeley.edu/content/2017-fall-indeng-262a-001-lec-001){:target="\_blank"} - Mathematical Programming I (Graduate)       |
