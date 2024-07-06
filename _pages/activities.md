@@ -48,7 +48,7 @@ nav_order: 5
 
 <h3>Services</h3>
 
-I was an editorial board reviewer for Journal of Machine Learning Research and reviewed papers for the following journals and conferences:
+I am an editorial board reviewer for Journal of Machine Learning Research and have reviewed papers for the following journals and conferences:
 
 | Type |||| Name |
 | ----------- |||| ----------- |
@@ -65,7 +65,7 @@ I was an editorial board reviewer for Journal of Machine Learning Research and r
 | Journal |||| Computational Optimization and Applications |
 | Journal |||| Journal of Scientific Computing |
 | Journal |||| Annuals of Statistics |
-| Journal |||| IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI) |
+| Journal |||| IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) |
 | Journal |||| IEEE Transactions on Knowledge and Data Engineering (TKDE) |
 | Journal |||| ACM Transactions on Knowledge Discovery from Data (TKDD) |
 | Journal |||| Information and Inference: A Journal of the IMA |
