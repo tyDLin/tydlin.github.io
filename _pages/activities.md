@@ -2,7 +2,8 @@
 layout: page
 permalink: /activities/
 title: Activities
-nav: false
+nav: true
+nav_order: 6
 ---
 
 <h3>Invited Talks</h3>
