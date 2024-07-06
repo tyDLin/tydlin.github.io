@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-nav: true
-nav_order: 4
+title: Teaching
+nav: false
 ---
 
 <h3>Columbia University</h3>
