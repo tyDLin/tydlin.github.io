@@ -8,5 +8,4 @@ nav_order: 4
 
 <h3>Columbia University</h3>
 
-| Semster	|||| Course	|
-| ----------- |||| ----------- |
+| Semster	|||| Course |
