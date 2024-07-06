@@ -2,7 +2,6 @@
 layout: page
 permalink: /activities/
 title: Activities
-description:
 nav: false
 ---
 
