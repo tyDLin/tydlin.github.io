@@ -9,6 +9,8 @@ nav_order: 4
 
 <h3>Columbia University</h3>
 
+<h1>   </h1>
+
 | Semster      |||| Course |
 | ----------- |||| ----------- |
 | Fall 2024      |||| [IEOR E4007](hhttps://doc.sis.columbia.edu/subj/IEOR/E4007-20243-001/){:target="\_blank"} - Optimization Models & Methods for Financial Engineering Models       |
@@ -17,8 +19,14 @@ nav_order: 4
 
 <h1>   </h1>
 
+<h1>   </h1>
+
+<h1>   </h1>
+
 
 <h3>UC Berkeley</h3>
+
+<h1>   </h1>
 
 I was a graduate student instructor for the following courses:
 
