@@ -24,6 +24,4 @@ I obtained my Ph.D. in Electrical Engineering and Computer Science from UC Berke
 <p><strong>Email:</strong> tl3335 [at] columbia [dot] edu </p>
 <p><strong>Office:</strong> 305 Mudd Building, 500 West 120th Street, New York, NY 10027 </p>
 
-<p></p>
-<p></p>
-<p></p>
+<br/>
