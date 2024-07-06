@@ -42,7 +42,6 @@ nav: false
 | 2018 |||| Berkeley-Columbia Meeting in Engineering and Statistics |
 | 2018 |||| INFORMS Optimization Society Meeting|
 
-
 <h3>Services</h3>
 
 I am an editorial board reviewer for Journal of Machine Learning Research and have reviewed papers for the following journals and conferences:
