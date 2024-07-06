@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications_topic/
-title: publications
+title: Publications (by Topic)
 description:
 nav: false
 ---
