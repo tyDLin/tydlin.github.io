@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: Services
+title: Professional Services
 nav: false
 ---
 
