@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications_year/
+permalink: /publications/
 title: publications
 description:
 nav: false
