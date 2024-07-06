@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications_topic/
 title: Publications (by Topic)
-description:
 nav: false
 ---
 
