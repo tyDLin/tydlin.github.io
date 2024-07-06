@@ -42,7 +42,6 @@ nav: false
 | 2018 |||| Berkeley-Columbia Meeting in Engineering and Statistics |
 | 2018 |||| INFORMS Optimization Society Meeting|
 
-<br/><br/>
 
 <h3>Services</h3>
 
