@@ -6,5 +6,3 @@ description: Edit the `_data/repositories.yml` and change the `github_users` and
 nav: true
 nav_order: 5
 ---
-
-
