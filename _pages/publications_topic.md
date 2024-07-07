@@ -7,10 +7,8 @@ nav: false
 ---
 
 <div class="publications">
-
 {% for t in page.topics %}
   <h1 class="year">{{t}}</h1>
   {% bibliography -f papers -q @*[topic={{t}}]* %}
 {% endfor %}
-
 </div>
