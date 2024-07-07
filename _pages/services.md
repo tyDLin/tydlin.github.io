@@ -28,10 +28,10 @@ I am an editorial board reviewer for Journal of Machine Learning Research and ha
 | Journal |||| Information and Inference: A Journal of the IMA |
 | Journal |||| Probability in Engineering and Information Sciences |
 | Journal |||| Journal of Mathematical Imaging and Vision |
-| Conference |||| Neural Information Processing Systems (NeurIPS) |
+| Conference |||| International Conference on Neural Information Processing Systems (NeurIPS) |
 | Conference |||| International Conference on Machine Learning (ICML) |
-| Conference |||| Artificial Intelligence and Statistics (AISTATS) |
-| Conference |||| Conference on Decision and Control (CDC) |
-| Conference |||| International World Wide Web Conference (WWW) |
+| Conference |||| International Conference on Artificial Intelligence and Statistics (AISTATS) |
+| Conference |||| IEEE Conference on Decision and Control (CDC) |
+| Conference |||| International Conference on World Wide Web (WWW) |
 | Conference |||| International Conference on Web Search and Data Mining (WSDM) |
 | Conference |||| International Conference on Information and Knowledge Management (CIKM) |
