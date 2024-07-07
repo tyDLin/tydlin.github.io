@@ -5,7 +5,7 @@ title: Teaching
 nav: false
 ---
 
-<h1>Columbia University</h1>
+<h3>Columbia University</h3>
 
 | Semster |||| Course |
 | ----------- |||| ----------- |
@@ -13,7 +13,7 @@ nav: false
 
 <br/><br/>
 
-<h1>UC Berkeley</h1>
+<h3>UC Berkeley</h3>
 
 I was a graduate student instructor for the following courses:
 
