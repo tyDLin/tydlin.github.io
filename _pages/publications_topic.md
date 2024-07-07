@@ -13,6 +13,9 @@ nav: false
 
 <h1>Ph.D Thesis</h1>
 
-{% bibliography -f papers -q @*[topic={{thesis}}]* %}
+{% for t in page.topics_thesis %}
+  <h2></h2>
+  {% bibliography -f papers -q @*[topic={{t}}]* %}
+{% endfor %}
 
 </div>
