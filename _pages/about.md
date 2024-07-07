@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my homepage!
 
-I am an assistant professor in the [Department of Industrial Engineering and Operations Research (IEOR)](https://ieor.columbia.edu/) at Columbia University. My research interests lie in optimization, game theory, machine learning, optimal transport and social network.
+I am an assistant professor in the [Department of Industrial Engineering and Operations Research (IEOR)](https://ieor.columbia.edu/) at Columbia University. My research interests lie in optimization, game theory, machine learning and social network.
 
 I obtained my Ph.D. in Electrical Engineering and Computer Science from UC Berkeley, where I was advised by Professor [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) and was associated with the Berkeley Artificial Intelligence Research (BAIR) group. From 2023 to 2024, I was a postdoctoral researcher at the [Laboratory for Information & Decision Systems](https://lids.mit.edu/) at Massachusetts Institute of Technology, working with Professor [Asuman Ozdaglar](https://asu.mit.edu/). Prior to this, I received a B.S. in Mathematics from Nanjing University, a M.S. in Pure Mathematics and Statistics from University of Cambridge and a M.S. in Operations Research from UC Berkeley.
 
