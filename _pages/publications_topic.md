@@ -12,11 +12,8 @@ nav: false
 
 <h1>Reinforcement learning</h1>
 
-
 <h1>Multi-task learning</h1>
 
-
 <h1>Dimensionality reduction</h1>
-
 
 </div>
