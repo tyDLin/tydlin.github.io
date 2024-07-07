@@ -13,7 +13,7 @@ nav: false
 <h1>Ph.D Thesis</h1>
 
 {% for t in page.topics_thesis %}
-  <h2 class="topic"></h2>
+  <h2></h2>
   {% bibliography -f papers -q @*[topic={{t}}]* %}
 {% endfor %}
 
