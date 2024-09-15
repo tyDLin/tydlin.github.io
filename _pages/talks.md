@@ -7,10 +7,12 @@ nav: false
 
 | Year |||| Host |
 | ----------- |||| ----------- |
-| 2024 |||| INFORMS Annual Meeting at Seattle |
+| 2022 |||| CMS Winter Meeting in Richmond |
+| 2024 |||| TOPS Seminar, NYU Stern School of Business |
+| 2024 |||| INFORMS Annual Meeting in Seattle |
 | 2024 |||| INFORMS Optimization Society Meeting|
 | 2024 |||| Information Science and Systems Conference|
-| 2023 |||| INFORMS Annual Meeting at Phoenix |
+| 2023 |||| INFORMS Annual Meeting in Phoenix |
 | 2023 |||| Math Department Seminar, University of South Caroline |
 | 2023 |||| IEOR Seminar, Columbia University |
 | 2023 |||| OR and STATS Seminar, MIT Sloan School of Management |
@@ -29,12 +31,12 @@ nav: false
 | 2022 |||| International Conference on Continuous Optimization (ICCOPT)|
 | 2022 |||| Learning and Games Program, Simons Institute for the Theory of Computing |
 | 2022 |||| INFORMS Optimization Society Meeting|
-| 2021 |||| INFORMS Annual Meeting at Anaheim |
+| 2021 |||| INFORMS Annual Meeting in Anaheim |
 | 2021 |||| SIAM Conference on Optimization, Virtual |
 | 2020 |||| INFORMS Annual Meeting, Virtual |
-| 2019 |||| INFORMS Annual Meeting at Seattle |
+| 2019 |||| INFORMS Annual Meeting in Seattle |
 | 2019 |||| International Conference on Continuous Optimization (ICCOPT)|
-| 2018 |||| INFORMS Annual Meeting at Phoenix |
+| 2018 |||| INFORMS Annual Meeting in Phoenix |
 | 2018 |||| IEOR Department Seminar, UC Berkeley |
 | 2018 |||| International Congress of Mathematical Optimization (ISMP)|
 | 2018 |||| Berkeley-Columbia Meeting in Engineering and Statistics |
