@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications_topic/
 title: Publications (by Topic)
-topics: [Ph.D Thesis, Optimization and Game Theory, Machine Learning, Optimal Transport, Alternating Direction Method of Multipliers]
+topics: [Ph.D Thesis, Game Theory, Machine Learning, Optimization, Optimal Transport, Alternating Direction Method of Multipliers]
 nav: false
 ---
 
