@@ -23,5 +23,6 @@ I obtained my Ph.D. in Electrical Engineering and Computer Science at UC Berkele
 
 <p><strong>Email:</strong> tl3335 [at] columbia [dot] edu </p>
 <p><strong>Office:</strong> 535B Mudd Building, 500 West 120th Street, New York, NY 10027 </p>
+<p><strong>Prospective students:</strong> I am unable to respond to most inquiries regarding openings for graduate and postdoctoral positions in my group. Admissions to Columbia are handled at a department-wide level, not by me individually. If you have been admitted to Columbia, please feel free to contact me.</p>
 
 <br/>
