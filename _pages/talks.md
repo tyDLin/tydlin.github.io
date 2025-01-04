@@ -7,6 +7,7 @@ nav: false
 
 | Year |||| Host |
 | ----------- |||| ----------- |
+| 2025 |||| ISEM Seminar, National University of Singapore |
 | 2025 |||| TOPS Seminar, NYU Stern School of Business |
 | 2024 |||| CMS Winter Meeting in Richmond |
 | 2024 |||| INFORMS Annual Meeting in Seattle |
