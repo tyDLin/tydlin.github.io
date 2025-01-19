@@ -10,6 +10,8 @@ nav: false
 | Semster |||| Course |
 | ----------- |||| ----------- |
 | Fall 2024 |||| [IEOR E4007](https://doc.sis.columbia.edu/subj/IEOR/E4007-20243-001/) - Optimization Models & Methods for Financial Engineering |
+| Spring 2025 |||| [EEOR E6616](https://doc.sis.columbia.edu/subj/EEOR/E6616-20251-001/) - Convex Optimization |
+| Spring 2025 |||| [IEOR E8100](https://doc.sis.columbia.edu/subj/IEOR/E8100-20251-004/) - Topics in Network Games |
 
 <br/><br/>
 
