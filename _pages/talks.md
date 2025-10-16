@@ -7,6 +7,8 @@ nav: false
 
 | Year |||| Host |
 | ----------- |||| ----------- |
+| 2026 |||| SwissMAP Workshop on Optimal Transport |
+| 2026 |||| INFORMS Optimization Society Meeting in Atlanta |
 | 2025 |||| ISEM Seminar, National University of Singapore |
 | 2025 |||| TOPS Seminar, NYU Stern School of Business |
 | 2024 |||| CMS Winter Meeting in Richmond |
