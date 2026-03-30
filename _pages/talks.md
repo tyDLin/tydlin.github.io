@@ -7,7 +7,7 @@ nav: false
 
 | Year |||| Host |
 | ----------- |||| ----------- |
-| 2026 |||| SwissMAP Workshop on Optimal Transport |
+| 2026 |||| SwissMAP Workshop on Optimal Transport and Optimization |
 | 2026 |||| TILOS AI Institute Seminar, UC San Diego |
 | 2026 |||| INFORMS Optimization Society Meeting in Atlanta |
 | 2026 |||| IEOR Colloquium, Columbia University |
