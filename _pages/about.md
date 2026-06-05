@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my homepage!
 
-I am an assistant professor in the [Department of Industrial Engineering and Operations Research (IEOR)](https://ieor.columbia.edu/) at Columbia University, where I am also a member of the [Data Science Institute (DSI)](https://datascience.columbia.edu/). My research interests lie in generative artificial intelligence (GenAI), optimization, game theory, machine learning, optimal transport and network. 
+I am an assistant professor in the [Department of Industrial Engineering and Operations Research (IEOR)](https://ieor.columbia.edu/) at Columbia University, where I am also a member of the [Data Science Institute (DSI)](https://datascience.columbia.edu/). My research interests lie in generative artificial intelligence (GenAI), machine learning, optimization, game theory and optimal transport. 
 
 I obtained my Ph.D. in Electrical Engineering and Computer Science at UC Berkeley, where I was advised by Professor [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) and was a member of the [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/). From 2023 to 2024, I was a postdoctoral scholar at Massachusetts Institute of Technology, where I was advised by Professor [Asuman Ozdaglar](https://asu.mit.edu/) and was a member of the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu/). Prior to that, I received a B.S. in Mathematics from Nanjing University, a M.S. in Pure Mathematics and Statistics from University of Cambridge and a M.S. in Operations Research from UC Berkeley.
 
