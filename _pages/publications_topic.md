@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications_topic/
 title: Publications (by Topic)
-topics: [Generative Artificial Intelligence, Machine Learning, Optimization, Game Theory, Optimal Transport, Ph.D Thesis]
+topics: [Ph.D Thesis, Generative Artificial Intelligence, Optimization, Game Theory, Optimal Transport, Text Mining]
 nav: false
 ---
 
