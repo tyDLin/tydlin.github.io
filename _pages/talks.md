@@ -21,7 +21,7 @@ nav: false
 | 2023 |||| INFORMS Annual Meeting in Phoenix |
 | 2023 |||| Math Department Seminar, University of South Caroline |
 | 2023 |||| IEOR Seminar, Columbia University |
-| 2023 |||| OR and STATS Seminar, MIT Sloan School of Management |
+| 2023 |||| OR and Statistics Seminar, MIT Sloan School of Management |
 | 2023 |||| ISE Department Seminar, Virginia Tech |
 | 2023 |||| Math Department Seminar, Rensselaer Polytechnic Institute |
 | 2023 |||| ISE Department Seminar, UIUC |
@@ -29,7 +29,7 @@ nav: false
 | 2023 |||| ORIE Colloquium, Cornell University |
 | 2023 |||| IMSE Department Seminar, Iowa State University |
 | 2023 |||| IE School Seminar, Purdue University |
-| 2022 |||| OPLOG Division Seminar, UBC Sauder School of Business |
+| 2022 |||| Operations and Logistics Division Seminar, UBC Sauder School of Business |
 | 2022 |||| ISE Department Seminar, Texas A&M University |
 | 2022 |||| TOPS Seminar, NYU Stern School of Business |
 | 2022 |||| Business Analytics Seminar, Iowa Tippie College of Business |
