@@ -7,10 +7,13 @@ nav: false
 
 | Year |||| Host |
 | ----------- |||| ----------- |
+| 2026 |||| Statistics Colloquium, University of Toronto |
+| 2026 |||| INFORMS Annual Meeting in San Francisco |
+| 2026 |||| IEOR Colloquium (Fall), Columbia University |
 | 2026 |||| SwissMAP Workshop on Optimal Transport and Optimization, Les Diablerets, Switzerland |
 | 2026 |||| TILOS AI Institute Seminar, UC San Diego |
 | 2026 |||| INFORMS Optimization Society Meeting in Atlanta |
-| 2026 |||| IEOR Colloquium, Columbia University |
+| 2026 |||| IEOR Colloquium (Spring), Columbia University |
 | 2025 |||| ISEM Seminar, National University of Singapore |
 | 2025 |||| TOPS Seminar, NYU Stern School of Business |
 | 2024 |||| CMS Winter Meeting in Richmond |
